@@ -18,7 +18,7 @@
 Before running this program, **please create a virtual environment by running the code below for a better execution environment.** 
 
 ```
-$ git clone https://github.com/CUAI-CAU/2022_Summer_CV5.git
+$ git clone https://github.com/KimTaeYun02/Diagnosis_of_gait_disorder_by_Human_pose_estimation.git
 ```
 
 ```python
